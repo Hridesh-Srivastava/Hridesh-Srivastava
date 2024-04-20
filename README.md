@@ -2,7 +2,7 @@
 
 - I’m interested in building websites and I'm a full stack web developer.
 
-- I've done my full stack development in HTML5, CSS3, Javascript (programming language),React.js,Next.js (frontend) and Node.js,express.js and databases like SQL and MongoDB (Backend).And also i am quite handy with Git and GitHub also and in designing and UI/UX I've done Figma and related stuffs on Canva also.
+- I've done my full stack development in HTML5, CSS3, Javascript (programming language),React.js,Next.js (frontend) and Node.js,express.js and database like MongoDB (Backend).And also i am quite handy with Git and GitHub also and in designing and UI/UX I've done Figma and related stuffs on Canva also.
 
 - I am eager to embark on a career where I can apply my knowledge and contribute to industry of Computer Science and Engineering in the field of making websites. I am poised to learn and grow in a professional setting. I am committed to making a positive impact and eager to seize opportunities for growth and development. Let's connect and explore how I can bring value to your team.
 
