@@ -8,7 +8,9 @@
 - The Frameworks,Courses and Languages I'm learning currently are: **HTML5,CSS3,JavaScript ES6,React.js,Next.js,Node.js,Express.js,MongoDB,Git,GitHub,Bootstrap 5,Figma Designs**
 
 - 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
-
+<br>
+<img src="![image](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/assets/143743755/e6e00f00-c7f5-4588-afd2-eb767bebcc56)" alt"code person gify"/>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hrideshhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrideshhhh" height="30" width="40" /></a>
