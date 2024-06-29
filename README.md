@@ -12,7 +12,8 @@
 
 - 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
 <br>
-<img align="center" alt="code gify" width="35%" src="./200w.gif" />
+<!--<img align="center" alt="code gify" width="35%" src="./200w.gif" />-->
+![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/200w.gif)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
