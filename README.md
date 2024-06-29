@@ -1,4 +1,4 @@
-<img alt="introduction img" align="center" width="1000px" height="480px" src="Copy of Grey minimalist business project presentation .png"/>
+<img alt="introduction img" align="center" width="500px" height="300px" src="Copy of Grey minimalist business project presentation .png"/>
 <br>
 <h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
