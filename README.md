@@ -1,4 +1,4 @@
-![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/Copy%20of%20Grey%20minimalist%20business%20project%20presentation%20.gif)
+![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/Copy%20of%20Grey%20minimalist%20business%20project%20presentation%20%20(1).gif)
 <br>
 <h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
