@@ -1,6 +1,6 @@
-- Hi, I’m Hridayesh Srivastava
+<h1> Hi! I’m Hridayesh Srivastava</h1>
 
-- I’m interested in building websites and I'm a full stack web developer.
+<h2>I’m interested in building websites and I'm a web developer</h2>.
 
 - I've done my full stack development in HTML5, CSS3, Javascript (programming language),React.js,Next.js (frontend) and Node.js,express.js and database like MongoDB (Backend).And also i am quite handy with Git and GitHub also and in designing and UI/UX I've done Figma and related stuffs on Canva also.
 
