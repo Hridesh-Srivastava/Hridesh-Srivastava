@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hrideshhhh" target="blank"><img src="https://img.shields.io/twitter/follow/hrideshhhh?logo=twitter&style=for-the-badge" alt="hrideshhhh" /></a> </p>
 - I'm eager to embark on a career where I can apply my knowledge and contribute to industry of Computer Science and Engineering in the field of making websites. <br>
+- I am poised to learn and grow in a professional setting. I am committed to making a positive impact and eager to seize opportunities for growth and development. <br>
 - I'm currently learning and working with: **HTML5,CSS3,JavaScript ES6,React.js,Next.js,Node.js,Express.js,MongoDB,Git,GitHub,Bootstrap 5,Figma Designs**
 
 - 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
