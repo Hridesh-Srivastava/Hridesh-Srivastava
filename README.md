@@ -1,4 +1,4 @@
-<center><h1> Hi! I’m Hridayesh Srivastava</h1></center>center>
+<center><h1> Hi! I’m Hridayesh Srivastava</h1></center>
 
 <h2>I’m interested in building websites and I'm a web developer</h2>.
 
