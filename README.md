@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
 <br>
-<img align="center" alt="code gify" width="35%" src="./200w.gif" />
+<img align="center" alt="code gify" width="50%" src="./200w.gif" />
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +26,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridesh-srivastava&show_icons=true&locale=en&layout=compact" alt="hridesh-srivastava" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&" alt="hridesh-srivastava" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&locale=en" alt="hridesh-srivastava" /></p>
 
