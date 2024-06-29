@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
 <br>
-<img align="center" alt="code gify" width="400" src="![image](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/assets/143743755/f830b720-1192-4f80-aefa-e43cdce70e6e)" />
+<img align="center" alt="code gify" width="400" src="./200w.gif" />
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
