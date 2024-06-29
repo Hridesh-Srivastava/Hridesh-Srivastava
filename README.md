@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/hrideshhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrideshhhh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hridayesh-srivastava-9575901bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridayesh-srivastava" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:24522628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:24522628" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24522628/hridesh-srivastava?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:24522628" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hrideshsrivasta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrideshsrivasta1" height="30" width="40" /></a>
 </p>
 
