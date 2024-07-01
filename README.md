@@ -1,7 +1,7 @@
 ![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/Copy%20of%20Grey%20minimalist%20business%20project%20presentation%20%20(2).gif)
 <br>
 <!--<h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>-->
-<img align="center" width="700" src="./Screenshot 2024-07-01 164923.png" alt="intro"/>
+<img align="center" width="600" src="./Screenshot 2024-07-01 164923.png" alt="intro"/>
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
