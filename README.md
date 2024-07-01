@@ -1,8 +1,7 @@
 ![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/Copy%20of%20Grey%20minimalist%20business%20project%20presentation%20%20(2).gif)
 <br>
 <h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>
-<img src="Copy of Copy of Grey minimalist business project presentation .gif" alt="intro" 
-height="80px" width="500px" align="center"/>
+![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/Copy%20of%20Copy%20of%20Grey%20minimalist%20business%20project%20presentation%20.gif)
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
