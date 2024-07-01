@@ -2,7 +2,7 @@
 <br>
 <!--<h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>-->
 <div align="center"> <img width="600" src="./name-intro.png" alt="intro"/> </div>
-<h3 align="center">I’m interested in building websites and I'm a web developer</h3>
+<h2 align="center">I’m interested in building websites and I'm a web developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
 
