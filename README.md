@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
 <br>
-<div align="center"> <img alt="code gify" width="35%" height="50%" src="./200w.gif" /> </div>
+<div align="center"> <img alt="code gify" width="35%" src="./200w.gif" /> </div>
 <br>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
