@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>
 <img src="Copy of Copy of Grey minimalist business project presentation .gif" alt="intro" 
-height="200px" align="center"/>
+height="80px" width="500px" align="center"/>
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
