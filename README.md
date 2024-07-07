@@ -2,7 +2,7 @@
 <br>
 <!--<h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>-->
 <div align="center"> <img width="600" src="./name-intro.png" alt="intro"/> </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22F76E&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Hridayesh+Srivastava" alt="Typing SVG" /></a>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22F76E&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Hridayesh+Srivastava" alt="Typing SVG" /></a> </div>
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
