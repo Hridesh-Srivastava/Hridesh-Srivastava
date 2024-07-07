@@ -2,7 +2,6 @@
 <br>
 <!--<h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>-->
 <div align="center"> <img width="600" src="./name-intro.png" alt="intro"/> </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">I’m interested in building websites and I'm a web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
