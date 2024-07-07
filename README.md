@@ -36,6 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&locale=en" alt="hridesh-srivastava" /></p>
 <hr>
 
-[![Hridesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridesh-Srivastava&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hridesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridesh-Srivastava&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
