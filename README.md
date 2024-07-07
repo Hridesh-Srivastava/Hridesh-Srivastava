@@ -35,3 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&locale=en" alt="hridesh-srivastava" /></p>
 <br>
+[![Hridesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridesh-Srivastava)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
