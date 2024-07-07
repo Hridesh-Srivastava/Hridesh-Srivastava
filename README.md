@@ -14,8 +14,7 @@
 • 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
 <br>
 <div align="center"> <img alt="code gify" width="35%" src="./200w.gif" /> </div>
-<br><br>
-<hr>
+<br>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/hrideshhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrideshhhh" height="30" width="40" /></a>
