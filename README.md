@@ -34,7 +34,9 @@
   <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridesh-srivastava&show_icons=true&locale=en&layout=compact" alt="hridesh-srivastava" /></p>
 <hr>
-
+<div align="center"><img src="./Skills_Animation_Dark.gif" width="56%" alt="animated gify"/>
+  <br>
+  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&" alt="hridesh-srivastava" /></p>
 <hr>
 
