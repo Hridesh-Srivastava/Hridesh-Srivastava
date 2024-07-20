@@ -34,6 +34,8 @@
   <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridesh-srivastava&show_icons=true&locale=en&layout=compact" alt="hridesh-srivastava" /></p>
 <hr>
+  <div align="center"> <img alt="snake svg" width="100%" src="./github-snake.svg" /> </div>
+  <br>
 <div align="center"><img src="./Skills_Animation_Dark.gif" width="58%" alt="animated gify"/>
   <br>
   <br>
@@ -47,4 +49,4 @@
 
 <br>
 <div align="center"> <img alt="code svg" width="100%" src="./gijj.svg" /> </div>
-<div align="center"> <img alt="snake svg" width="100%" src="./github-snake.svg" /> </div>
+
