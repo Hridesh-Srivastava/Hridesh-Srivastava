@@ -47,3 +47,4 @@
 
 <br>
 <div align="center"> <img alt="code svg" width="100%" src="./gijj.svg" /> </div>
+<div align="center"> <img alt="snake svg" width="100%" src="./github-snake.svg" /> </div>
