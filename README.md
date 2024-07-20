@@ -48,6 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&locale=en" alt="hridesh-srivastava" /></p>
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
 <br>
+
 [![Hridesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridesh-Srivastava&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
