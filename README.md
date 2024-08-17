@@ -49,7 +49,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=dark&locale=en" alt="hridesh-srivastava" /></p>
   <br>
-<img src="https://camo.githubusercontent.com/885b3ae0250a835c03e4d4cd14b96d5e214454a2b4bdbba29f5724d8df96a36a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c7461696c77696e642c6a732c72656163742c766974652c74732c6e6578742c657870726573736a732c6e6f64656a732c6d6f6e676f64622c66697265626173652c6d642c6769742c6769746875622c7673636f64652c6a6573742c7374796c6564636f6d706f6e656e74732c706f73746d616e2c737461636b6f766572666c6f77267065726c696e653d3133" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,next,expressjs,nodejs,mongodb,git,github,vscode,postman,stackoverflow&amp;perline=13" style="max-width: 100%;">
+
 
 
   <div align="center"><img src="./gifyyyyy.gif" width="55%" alt="gify3"/>
