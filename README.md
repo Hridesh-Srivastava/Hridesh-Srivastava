@@ -49,6 +49,8 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&locale=en" alt="hridesh-srivastava" /></p>
   <br>
+  <p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/e57e576091251ec265a20df48590e255030cfb3a7a08d3ac42b7d00d98a91e1e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6172657470722673686f775f69636f6e733d74727565267468656d653d6461726b26636f756e745f707269766174653d74727565" alt="hridesh-srivastava" /></p>
+  
   <div align="center"><img src="./gifyyyyy.gif" width="55%" alt="gify3"/>
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
 <br>
