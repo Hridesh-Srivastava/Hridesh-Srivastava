@@ -44,7 +44,7 @@
   <br>
   <div align="center"> <img alt="2nd arr" width="100%" src="./2nd arrow.gif" /> </div>
   <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&" alt="hridesh-srivastava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&theme=dark&" alt="hridesh-srivastava" /></p>
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=dark&locale=en" alt="hridesh-srivastava" /></p>
