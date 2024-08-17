@@ -1,7 +1,4 @@
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-<br>
+
 ![logo](https://github.com/Hridesh-Srivastava/Hridesh-Srivastava/blob/main/Copy%20of%20Grey%20minimalist%20business%20project%20presentation%20%20(2).gif)
 <br>
 <!--<h1 align="center">Hi 👋, I'm Hridayesh Srivastava</h1>-->
