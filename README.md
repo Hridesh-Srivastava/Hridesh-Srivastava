@@ -1,7 +1,7 @@
 <p align="center">
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
 </p>
-<div align="center"> <img alt="code svg" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
+
 
 
 
