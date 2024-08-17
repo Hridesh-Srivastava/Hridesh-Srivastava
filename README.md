@@ -49,8 +49,6 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=dark&locale=en" alt="hridesh-srivastava" /></p>
   <br>
- [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=HrideshSrivastava&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-
 
 
   <div align="center"><img src="./gifyyyyy.gif" width="55%" alt="gify3"/>
