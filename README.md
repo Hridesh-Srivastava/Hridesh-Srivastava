@@ -22,6 +22,7 @@
 • I'm currently learning and working with: **HTML5, CSS3, JavaScript ES6, React.js, Next.js14, Node.js, Express.js, Embedded JavaScript (EJS), MongoDB, Git, GitHub, Bootstrap 5, Figma Designs**
 
 • 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
+**hrideshsrivastava224@gmail.com**
 <br>
 <div align="center"> <img alt="code gify" width="53%" src="./200w.gif" /> </div>
 <br>
