@@ -44,7 +44,6 @@
 <br>
   <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridesh-srivastava&show_icons=true&theme=radical&locale=en&layout=compact" alt="hridesh-srivastava" /></p>
-     <p><img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=hridesh-srivastava&layout=compact&theme=radical&card_width=150"</p>
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
   <br>
   <div align="center"> <img alt="snake svg" width="100%" src="./github-snake.svg" /> </div>
@@ -53,7 +52,7 @@
   <br>
   <div align="center"> <img alt="2nd arr" width="100%" src="./2nd arrow.gif" /> </div>
   <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&theme=dark&" alt="hridesh-srivastava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&theme=radical&" alt="hridesh-srivastava" /></p>
      
    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
