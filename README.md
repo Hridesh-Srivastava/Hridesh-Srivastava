@@ -54,7 +54,7 @@
   <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&theme=radical&" alt="hridesh-srivastava" /></p>
      
-   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=radical&locale=en" alt="hridesh-srivastava" /></p>
