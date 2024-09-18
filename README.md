@@ -13,6 +13,7 @@
 <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF765&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Hridayesh+Srivastava;I%E2%80%99m+interested+in+building+websites;+And+I+am+a+web+developer;Welcome+to+my+GitHub!+%F0%9F%99%82" alt="Typing SVG" /></a> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="hridesh-srivastava" /> </p>
+<p align="center">  <img src="https://profile-counter.glitch.me/_hridesh-srivastava/count.svg" alt="hridesh-srivastava"/> </p>
 
 <p align="left"> <a href="https://twitter.com/hrideshhhh" target="blank"><img src="https://img.shields.io/twitter/follow/hrideshhhh?logo=twitter&style=for-the-badge" alt="hrideshhhh" /></a> </p>
 <br>
