@@ -57,7 +57,7 @@
    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=dark&locale=en" alt="hridesh-srivastava" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=radical&locale=en" alt="hridesh-srivastava" /></p>
   <br>
 
 
