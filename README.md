@@ -43,7 +43,7 @@
 <div align="center"><img src="./235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="55%" alt="gify"/>
 <br>
   <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridesh-srivastava&show_icons=true&theme=radical&locale=en&layout=compact" alt="hridesh-srivastava" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridesh-srivastava&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="hridesh-srivastava" /></p>
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
   <br>
   <div align="center"> <img alt="snake svg" width="100%" src="./github-snake.svg" /> </div>
