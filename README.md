@@ -52,7 +52,7 @@
   <br>
   <div align="center"> <img alt="2nd arr" width="100%" src="./2nd arrow.gif" /> </div>
   <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&theme=radical&" alt="hridesh-srivastava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridesh-srivastava&theme=shades-of-purple&" alt="hridesh-srivastava" /></p>
      
    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center"> <img alt="line gify" width="100%" src="./line-neon.gif" /> </div>
