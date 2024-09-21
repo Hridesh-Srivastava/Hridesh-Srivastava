@@ -60,9 +60,6 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridesh-srivastava&show_icons=true&theme=merko&locale=en" alt="hridesh-srivastava" /></p>
   <br>
-p align="center">
-     <img width="100%" src="https://images.app.goo.gl/fKRDvLUogQqBVpdUA"/>
-</p>
 
 
   <div align="center"><img src="./gifyyyyy.gif" width="55%" alt="gify3"/>
