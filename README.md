@@ -20,7 +20,7 @@
 • I'm eager to embark on a career where I can apply my knowledge and contribute to industry of Computer Science and Engineering in the field of making websites. <br>
 • I'm poised to learn and grow in a professional setting. I am committed to making a positive impact and eager to seize opportunities for growth and development. <br>
 • I'm currently learning and working with :
- <pre>HTML5, CSS3, JavaScript ES6, React.js, Next.js14, Node.js, Express.js, Embedded JavaScript (EJS), MongoDB, Git, GitHub, Postman API, Bootstrap 5, Figma Designs</pre>
+ <pre>HTML5, CSS3, JavaScript ES6, React.js, Next.js 14, Node.js, Express.js, Embedded JavaScript (EJS), MongoDB, Git, GitHub, Postman API, Bootstrap 5, Figma Designs</pre>
 
 • 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
 
