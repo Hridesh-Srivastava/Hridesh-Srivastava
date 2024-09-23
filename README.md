@@ -18,11 +18,11 @@
 <br>
 <div align="left"> <img alt="code" width="20%" src="./about_me.gif" />  <img alt="circuit" width="20%" height="-100px" src="./24fps.gif" /> </div>
 • I'm eager to embark on a career where I can apply my knowledge and contribute to industry of Computer Science and Engineering in the field of making websites. <br>
-• ✍🏼I'm poised to learn and grow in a professional setting. I am committed to making a positive impact and eager to seize opportunities for growth and development. <br>
-•✍🏼I'm currently learning and working with :
- <pre>HTML5, CSS3, JavaScript ES6, React.js, Next.js 14, Node.js, Express.js, Embedded JavaScript (EJS), MongoDB, Git, GitHub, Postman API, Bootstrap 5, Figma Designs</pre>
+• I'm poised to learn and grow in a professional setting. I am committed to making a positive impact and eager to seize opportunities for growth and development. <br>
+• I'm currently learning and working with :
+ <pre>HTML5, CSS3, JavaScript ES6, React, Next.js 14, Node.js, Express, Embedded JavaScript (EJS), MongoDB, Git, GitHub, Postman API, Bootstrap 5, Figma Designs</pre>
 
-• 📫 How to reach me: **hrideshsrivastavaa@outlook.com**
+• 📫 How to reach me : **hrideshsrivastavaa@outlook.com**
 
 <br>
 <div align="center"> <img alt="code gify" width="53%" src="./200w.gif" /> </div>
