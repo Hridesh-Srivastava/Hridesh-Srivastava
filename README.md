@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridesh-srivastava&label=Profile%20views&color=0eb64f&style=flat" alt="hridesh-srivastava" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hrideshhhh" target="blank"><img src="https://img.shields.io/twitter/follow/hrideshhhh?logo=twitter&style=for-the-badge&color=violet" alt="hrideshhhh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hrideshhhh" target="blank"><img src="https://img.shields.io/twitter/follow/hrideshhhh?logo=twitter&style=for-the-badge&color=orange" alt="hrideshhhh" /></a> </p>
 <br>
 <div align="left"> <img alt="code" width="20%" src="./about_me.gif" />  <img alt="circuit" width="20%" height="-100px" src="./24fps.gif" /> </div>
 • I'm eager to embark on a career where I can apply my knowledge and contribute to industry of Computer Science and Engineering in the field of making websites. <br>
