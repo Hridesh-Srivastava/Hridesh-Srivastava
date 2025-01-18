@@ -74,6 +74,6 @@
 [![Hridesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridesh-Srivastava&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-<pre>© 2024 | Hridesh Srivastava </pre>
+<pre>© 2025 | Hridesh Srivastava </pre>
 <div align="center"> <img alt="code svg" width="100%" src="./gijj.svg" /> </div>
 
