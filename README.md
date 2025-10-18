@@ -23,7 +23,7 @@
  <pre>HTML5, CSS3, JavaScript ES6+, TypeScript, React, Next.js, Node.js, Express, REST APIs, Embedded JavaScript (EJS), MongoDB, PostgreSQL, Git, GitHub, Postman API, Tailwind CSS, Figma </pre>
 
 • 📫 How to reach me : **hrideshsrivastavaa@outlook.com**
-
+• Visit : **www.hridayesh-srivastava.me**
 <br>
 <div align="center"> <img alt="code gify" width="53%" src="./200w.gif" /> </div>
 <br>
